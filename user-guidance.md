@@ -2,7 +2,7 @@
 Daniel van Strien, UCL Library Services, UCL
 lib-researchsupport@ucl.ac.uk
 
-Version 0.1 May 2017
+Version 0.1 May 2017 **DRAFT**
 
 DMPOnline is an online tool produced by the Digital Curation Centre to help researchers create Data Management Plans. 
 The tool offers templates and guidance to meet the Data Management Plan requirements of a range of funders and institutions. Plans produced in DMPOnline can be customised and exported to a variety of formats. It is possible to share your plans with other people. Draft plans will be saved and it is possible to create multiple plans if required. 
