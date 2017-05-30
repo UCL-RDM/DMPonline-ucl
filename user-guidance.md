@@ -61,11 +61,12 @@ You can export your plan in a variety of formats including docx (Word), PDF and 
 ![Exporting tab](https://github.com/davanstrien/DMPonline-ucl/blob/master/DMP-export.JPG) 
  
 ## Help to write and review your Plans
-For more help and advice, contact your Research Data Support Officers at [lib-researchsupport@ucl.ac.uk]() who can also review drafted UCL Data Management Plans if you send them in advance of submission (allow at least a 1-2 weeks for review. 
+
+For more help and advice, contact your Research Data Support Officers at [lib-researchsupport@ucl.ac.uk]() who can also review drafted UCL Data Management Plans if you send them in advance of submission (allow at least a 1-2 weeks for review). 
 
 ## Feedback
 
-If you have any feedback on this user guidance, or the UCL guidance please send an email to [lib-researchsupport@ucl.ac.uk]()
+If you have any feedback on this user guidance, or the UCL guidance included in DMPOnline, please send an email to [lib-researchsupport@ucl.ac.uk]()
 
 
 
