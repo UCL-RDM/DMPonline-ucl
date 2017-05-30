@@ -12,6 +12,7 @@ If you have not previously used DMPOnline you will need to create an account. On
  
  If you have previously used DMPOnline logging in will allow you to see any previous plans you have created. 
  
+ ![sign up page](https://github.com/davanstrien/DMPonline-ucl/blob/master/signup_signin.JPG)  
 
 ## Create a DMP
 Once you are signed-in you can create your first plan. Choose create plan. 
