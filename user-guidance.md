@@ -10,7 +10,9 @@ DMPOnline is an online tool produced by the Digital Curation Centre to help rese
 The tool offers templates and guidance to meet the Data Management Plan requirements of a range of funders and institutions. Plans produced in DMPOnline can be customised and exported to a variety of formats. It is possible to share your plans with other people. Draft plans will be saved and it is possible to create multiple plans if required. 
 
 ## Sign-in or create account 
-If you have not previously used DMPOnline you will need to create an account. Once you have created an account you can create link it to your UCL institutional credentials and login using your institutional credentials. 
+1. If you have not previously used DMPOnline you will need to create an account. 
+
+2. Once you have created an account you can create link it to your UCL institutional credentials and login using your institutional credentials. 
 
  ![sign-up page](https://github.com/davanstrien/DMPonline-ucl/blob/master/signup_signin.JPG)  
  
